@@ -1,0 +1,9 @@
+winner,victory_status,turns
+Black,Mate,67.3
+Black,Out of Time,70.9
+Black,Resign,55.5
+Draw,Draw,83.8
+Draw,Out of Time,135.1
+White,Mate,63.8
+White,Out of Time,71.2
+White,Resign,52.5
